@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://culturall1.idrc.ocadu.ca/index.php" xml:lang="en-gb">
+	<title type="text">Projects</title>
+	<subtitle type="text">Joomla! - the dynamic portal engine and content management system</subtitle>
+	<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=category&amp;id=19&amp;Itemid=53"/>
+	<id>/index.php?option=com_content&amp;view=category&amp;id=19&amp;Itemid=53</id>
+	<updated>2013-08-13T00:21:36Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="/" />
+	<entry>
+		<title>Document - Parents Brochure</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=130&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-04-28T01:21:05Z</published>
+		<updated>2007-04-28T01:21:05Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=130&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;View &lt;a href=&quot;http://debaj.atrc.utoronto.ca/NAAP/brochure-for-parents/&quot; target=&quot;_blank&quot; title=&quot;Parents Brochure&quot;&gt;Brochure for Parents&lt;/a&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;View &lt;a href=&quot;http://debaj.atrc.utoronto.ca/NAAP/brochure-for-parents/&quot; target=&quot;_blank&quot; title=&quot;Parents Brochure&quot;&gt;Brochure for Parents&lt;/a&gt; &lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Instructions - Storytelling Studio Authoring Tool</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=113&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-04-12T11:44:52Z</published>
+		<updated>2007-04-12T11:44:52Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=113&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;One of the techniques used in the &lt;a href=&quot;index.php?option=com_content&amp;amp;task=view&amp;amp;id=106&amp;amp;Itemid=35&quot;&gt;Prototype of Web Design for Oral Cultures&lt;/a&gt; was StoryLinking, a method in which a content video is enhanced with video links to enable web resources to be constructed without text.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;To learn more about the technique, please visit the &lt;a href=&quot;http://firststory.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=111&amp;amp;Itemid=123&quot; target=&quot;_blank&quot;&gt;StoryLink site on firststory.ca&lt;/a&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;At this site you can also download&amp;nbsp;an authoring tool for the technique or view a &amp;quot;how-to&amp;quot; document.&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;One of the techniques used in the &lt;a href=&quot;index.php?option=com_content&amp;amp;task=view&amp;amp;id=106&amp;amp;Itemid=35&quot;&gt;Prototype of Web Design for Oral Cultures&lt;/a&gt; was StoryLinking, a method in which a content video is enhanced with video links to enable web resources to be constructed without text.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;To learn more about the technique, please visit the &lt;a href=&quot;http://firststory.ca/index.php?option=com_content&amp;amp;task=view&amp;amp;id=111&amp;amp;Itemid=123&quot; target=&quot;_blank&quot;&gt;StoryLink site on firststory.ca&lt;/a&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;At this site you can also download&amp;nbsp;an authoring tool for the technique or view a &amp;quot;how-to&amp;quot; document.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Document - Prototype of Web Design for Oral Cultures</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=106&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-03-30T16:49:59Z</published>
+		<updated>2007-03-30T16:49:59Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=106&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;Building on the &lt;a href=&quot;index.php?option=com_content&amp;amp;task=view&amp;amp;id=54&amp;amp;Itemid=35&quot;&gt;Intersections document&lt;/a&gt;, Debaj and the ATRC worked together to prototype some of the techniques in the document, including video, sound and use of an experimental technology called StoryLinking. The subject matter for the prototype is an online brochure for prospective Debaj students and their families.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;(Note: The Ojibway version is coming soon)&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;a href=&quot;http://debaj.atrc.utoronto.ca/NAAP/brochure-for-parents/&quot; target=&quot;_blank&quot;&gt;http://debaj.atrc.utoronto.ca/NAAP/brochure-for-parents/&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;{mosimage}&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;Building on the &lt;a href=&quot;index.php?option=com_content&amp;amp;task=view&amp;amp;id=54&amp;amp;Itemid=35&quot;&gt;Intersections document&lt;/a&gt;, Debaj and the ATRC worked together to prototype some of the techniques in the document, including video, sound and use of an experimental technology called StoryLinking. The subject matter for the prototype is an online brochure for prospective Debaj students and their families.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;(Note: The Ojibway version is coming soon)&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;a href=&quot;http://debaj.atrc.utoronto.ca/NAAP/brochure-for-parents/&quot; target=&quot;_blank&quot;&gt;http://debaj.atrc.utoronto.ca/NAAP/brochure-for-parents/&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;{mosimage}&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Presentation -  CulturAll Summit - Dec 2006</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-03-28T14:17:44Z</published>
+		<updated>2007-03-28T14:17:44Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=95&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;View &lt;a href=&quot;images/stories/powerpoints/intersections_summit2006.ppt&quot; target=&quot;_blank&quot; title=&quot;Presentation from the culturAll summit - dec 2006&quot;&gt;presentation&lt;/a&gt; from CulturAll Summit - Dec 2006&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;View &lt;a href=&quot;images/stories/powerpoints/intersections_summit2006.ppt&quot; target=&quot;_blank&quot; title=&quot;Presentation from the culturAll summit - dec 2006&quot;&gt;presentation&lt;/a&gt; from CulturAll Summit - Dec 2006&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Document -Intersections: On-line Barriers to Oral Cultures and Parallels with Accessibility Barriers</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=54&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-03-23T15:34:04Z</published>
+		<updated>2007-03-23T15:34:04Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=54&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;&amp;nbsp;The Intersections document is the end result of the Intersections discussion series in which member of the Debajehmujig theatre troupe and the Adaptive Technology Resource Centre explored the similarities and differences&amp;nbsp;between online barriers to access for people who live in oral cultures and people with disabilities.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;other/intersection_report/&quot;&gt;http://culturall.atrc.utoronto.ca/other/intersection_report/&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;&amp;nbsp;The Intersections document is the end result of the Intersections discussion series in which member of the Debajehmujig theatre troupe and the Adaptive Technology Resource Centre explored the similarities and differences&amp;nbsp;between online barriers to access for people who live in oral cultures and people with disabilities.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;other/intersection_report/&quot;&gt;http://culturall.atrc.utoronto.ca/other/intersection_report/&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Event - Intersection Discussion Series - Face-to-Face Meeting (1 December 2006)</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=48&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-03-22T12:00:30Z</published>
+		<updated>2007-03-22T12:00:30Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=48&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;The interesection discussions wrap-up with a face-to-face discussion during the Culturall Toronto Summit. Five members of Debaj and one person from the ATRC were involved in this wide ranging discussion that touched on gender specific knowledge, the use of Ojibway syllabics, how new words&amp;nbsp;come into usage, storytelling and localization of stories.&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;The interesection discussions wrap-up with a face-to-face discussion during the Culturall Toronto Summit. Five members of Debaj and one person from the ATRC were involved in this wide ranging discussion that touched on gender specific knowledge, the use of Ojibway syllabics, how new words&amp;nbsp;come into usage, storytelling and localization of stories.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Event - Intersection Discussion Series - Teleconference (5 October 2006)</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=47&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-03-22T11:55:09Z</published>
+		<updated>2007-03-22T11:55:09Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=47&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;The intersection discussion continues. The topics covered included traditional knowledge that by its nature could not be put on-line and the cultural barriers that might be inherent in user interfaces.&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;The intersection discussion continues. The topics covered included traditional knowledge that by its nature could not be put on-line and the cultural barriers that might be inherent in user interfaces.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Event - Intersection Discussion Series - Face-to-Face Meeting (21 September 2006)</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=46&amp;catid=19&amp;Itemid=53"/>
+		<published>2007-03-22T11:42:47Z</published>
+		<updated>2007-03-22T11:42:47Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=46&amp;amp;catid=19&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;In September 2006, Jan Richards and Heidi Hazelton, both&amp;nbsp;of the ATRC, travelled to Wikwemikong, Ontario to meet members of Debajehmujig and begin the Intersections discussion series. The purpose of this conversation was to explore the similar (and different) barriers that exist to online participation&amp;nbsp;for people living within oral cultures and for people with disabilities.&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;In September 2006, Jan Richards and Heidi Hazelton, both&amp;nbsp;of the ATRC, travelled to Wikwemikong, Ontario to meet members of Debajehmujig and begin the Intersections discussion series. The purpose of this conversation was to explore the similar (and different) barriers that exist to online participation&amp;nbsp;for people living within oral cultures and for people with disabilities.&lt;/p&gt;</content>
+	</entry>
+</feed>

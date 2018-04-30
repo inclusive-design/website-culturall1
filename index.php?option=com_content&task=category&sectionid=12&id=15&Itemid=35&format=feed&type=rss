@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0">
+	<channel>
+		<title>culturall</title>
+		<description>Joomla! - the dynamic portal engine and content management system</description>
+		<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=category&amp;id=15&amp;Itemid=53</link>
+		<lastBuildDate>Tue, 13 Aug 2013 00:21:13 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Announcement - TinyMCE Popularity</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=109&amp;catid=15&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">The impact of the TinyMCE accessibility upgrade on the accessibility of Web content will have a ripple down effect in proportion to its use because (1) this means more people will have access to tools to simplify accessible authoring and (2) the battle for market share will cause other editors to follow suit and add enhanced accessibility features to their products.</p><p align="left">A snapshot of the TinyMCE usage statististics at the end of March 2007 are shown below, while the current and complete TinyMCE statistics are visibe at: <a href="http://sourceforge.net/project/stats/?group_id=103281&amp;ugn=tinymce&amp;type=&amp;mode=year" target="_blank">TinyMCE Statistics</a>.</p><p align="left">In March 2007, the number of hits on the TinyMCE site was approximately <strong>260,000</strong>. The number of downloads of TinyMCE in the same month was approximately <strong>60,000</strong>.</p><p align="left">Also, follow this link to view a <a href="http://wiki.moxiecode.com/index.php/TinyMCE:CMS_systems" target="_blank">list of authoring tools&nbsp;using TinyMCE</a>.&nbsp;</p><p align="left">{mosimage}</p>]]></description>
+			<category>Inclusive Authoring Tool</category>
+			<pubDate>Wed, 04 Apr 2007 13:58:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Presentation - CulturAll Summit - Dec 2006</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=91&amp;catid=15&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">View <a href="https://culturall1.idrc.ocadu.ca/images/stories/powerpoints/cultureall_tools.ppt" target="_blank" title="Presentation at the CulturAll Summit Dec 2006">presentation</a>&nbsp;from CulturAll Summit - Dec 2006</p>]]></description>
+			<category>Inclusive Authoring Tool</category>
+			<pubDate>Wed, 28 Mar 2007 11:53:53 +0000</pubDate>
+		</item>
+		<item>
+			<title>Document - TinyMCE Accessibility Enhancements</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=90&amp;catid=15&amp;Itemid=53</link>
+			<description><![CDATA[<ol><li><div align="left">Fully keyboard navigable (including visual indicators of focus, etc.)</div></li><li><div align="left">Enhanced keyboard navigation allows the author to move easily between the button bars, content being edited, and the status bar.</div></li><li><div align="left">All buttons in user interface have alt-text.</div></li><li><div align="left">Prompting for accessibility labels for images, table information.&nbsp;</div></li><li><div align="left"><a href="https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;task=view&amp;id=71&amp;Itemid=35">Plug-in for Checking Accessibility (AChecker)</a></div></li><li><div align="left">Enhanced references to accessibility in the documentation.</div></li></ol><p align="left">{mosimage}</p>]]></description>
+			<category>Inclusive Authoring Tool</category>
+			<pubDate>Wed, 28 Mar 2007 11:52:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>Download - AChecker plug-in for TinyMCE download</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=71&amp;catid=15&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">The free downloads on this page allow TinyMCE to include a function that checks page content against an HTML evaluation program called A-Checker.</p><p align="left"><a href="http://checker.atrc.utoronto.ca/Installation.html"><u>http://checker.atrc.utoronto.ca/Installation.html</u></a></p>]]></description>
+			<category>Inclusive Authoring Tool</category>
+			<pubDate>Mon, 26 Mar 2007 11:45:25 +0000</pubDate>
+		</item>
+		<item>
+			<title>Instructions - Demonstration of TinyMCE integrated with ATutor</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=70&amp;catid=15&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">Instructions for seeing how TinyMCE works integrated with ATutor.</p><p align="left">WARNING: The demonstration site is open to editing by the public, which&nbsp;results in changes to the content and language of the site. While the instructions that follow were accurate as of 26 March 2007, that may no longer be the case.</p><p align="left">&nbsp;</p>]]></description>
+			<category>Inclusive Authoring Tool</category>
+			<pubDate>Mon, 26 Mar 2007 11:39:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Download -  TinyMCE available for Download</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=69&amp;catid=15&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left"><span class="ingress"><span class="ingress">TinyMCE is the authoring tool that was upgraded with accessibility enhancements as part of this project. </span></span></p><p align="left"><span class="ingress">TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL by Moxiecode Systems AB. It has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances. TinyMCE is very easy to integrate into other Content Management Systems.</span> </p><p align="left">Information:</p><p align="left"><a href="http://tinymce.moxiecode.com/index.php">http://tinymce.moxiecode.com/index.php</a></p><p align="left">Free Download:</p><p align="left"><a href="http://tinymce.moxiecode.com/download.php">http://tinymce.moxiecode.com/download.php</a></p>]]></description>
+			<category>Inclusive Authoring Tool</category>
+			<pubDate>Mon, 26 Mar 2007 10:19:23 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

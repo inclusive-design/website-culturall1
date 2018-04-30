@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0">
+	<channel>
+		<title>Projects</title>
+		<description>Joomla! - the dynamic portal engine and content management system</description>
+		<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=53</link>
+		<lastBuildDate>Tue, 13 Aug 2013 00:21:35 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Activity- Web Tour of Sound-Annotated Pictures</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=110&amp;catid=17&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">The Web Tour of Sound-Annotated Pictures is a set of 34 images that have been enhanced with sound&nbsp;such that regions of the photographs are identified and then associated with a sound. The user can explore the regions via mouse or keyboard, listening to the sounds separately or together and also receiving textual descriptions for the various regions or the image as a whole.</p><ul><li><div align="left"><a href="http://www.musee-mccord.qc.ca/fr/dossiers/SONS_FR" target="_blank">French Version</a></div></li><li><div align="left"><a href="http://www.musee-mccord.qc.ca/fr/dossiers/SONS_EN" target="_blank">English Version</a></div></li></ul><p align="left">{mosimage}&nbsp;</p>]]></description>
+			<category>Modal Translation</category>
+			<pubDate>Wed, 04 Apr 2007 14:21:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Activity - Pictures with Sound Search</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=108&amp;catid=17&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">The <a href="http://www.mccord-museum.qc.ca/scripts/explore.php?Lang=1&amp;tableid=4&amp;tablename=department&amp;elementid=00016__true" target="_blank">Notman Photographic Archives</a> at the McCord Museum&nbsp;includes&nbsp;an on-line collection of over 80,000 photographs. </p><p align="left">As part of the Culturall project, over 11,000 images were matched with background sounds in order to investigate the usefulness and feasibility of providing sound effect based accessible multimedia equivalents on a large scale. A customized ambient sound is create for each image by mixing background sounds appropriate to the various elements in each image. </p><p align="left">In order to allow public access to this resource, the McCord has created a &quot;pictures with sound search&quot; option that lets visitors search by each of the background sounds.</p><ul><li><div align="left"><a href="http://www.mccord-museum.qc.ca/scripts/sound_search.php?Lang=1" target="_blank">English Search Page</a></div></li><li><div align="left"><a href="http://www.musee-mccord.qc.ca/scripts/sound_search.php?Lang=2" target="_blank">French Search Page</a></div></li></ul>]]></description>
+			<category>Modal Translation</category>
+			<pubDate>Mon, 02 Apr 2007 10:41:42 +0000</pubDate>
+		</item>
+		<item>
+			<title>Activity - &quot;Echophotograph&quot; Game</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=107&amp;catid=17&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">The&nbsp;&quot;Echophotograph&quot; game is a multimodal activity in which the player attempts to determine which of four possible scenes matches a soundscape. The player does this by exploring the images and noting consistenceies or inconsistencies between the image and sound effects that are triggered as they explore.</p><p align="left">The game was made more accessible by the addition of keyboard navigation and zooming.&nbsp;</p><ul><li><div align="left">French Version (<a href="http://www.musee-mccord.qc.ca/fr/clefs/jeux/34" target="_blank">Part 1</a>, <a href="http://www.musee-mccord.qc.ca/fr/clefs/jeux/35" target="_blank">Part 2</a>)</div></li><li><div align="left">English&nbsp;Version (<a href="http://www.mccord-museum.qc.ca/en/keys/games/34" target="_blank">Part 1</a>, <a href="http://www.mccord-museum.qc.ca/en/keys/games/35" target="_blank">Part 2</a>)</div></li></ul>]]></description>
+			<category>Modal Translation</category>
+			<pubDate>Mon, 02 Apr 2007 10:26:21 +0000</pubDate>
+		</item>
+		<item>
+			<title>Presentation - CulturAll Summit - Dec 2006</title>
+			<link>https://culturall1.idrc.ocadu.ca/index.php?option=com_content&amp;view=article&amp;id=92&amp;catid=17&amp;Itemid=53</link>
+			<description><![CDATA[<p align="left">View <a href="https://culturall1.idrc.ocadu.ca/other/ppt/CulturAll_Mccord.ppt" title="Presenation made at the CulturAll Summit - Dec 2006">presentation</a> from the CulturAll Summit - Dec 2006</p><p>&nbsp;</p>]]></description>
+			<category>Modal Translation</category>
+			<pubDate>Wed, 28 Mar 2007 12:05:53 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

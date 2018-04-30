@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?xml version="1.0" encoding="utf-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="title" content="Instructions - Installing TransformAble in Sakai" />
+  <meta name="author" content="Anastasia Cheetham" />
+  <meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Instructions - Installing TransformAble in Sakai</title>
+  <script type="text/javascript" src="https://culturall1.idrc.ocadu.ca/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="https://culturall1.idrc.ocadu.ca/media/system/js/caption.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://culturall1.idrc.ocadu.ca/templates/dnamisato/css/template_css.css" rel="stylesheet" type="text/css"/>
+<link href="https://culturall1.idrc.ocadu.ca/templates/dnamisato/css/css_color_green.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<div id="accessibility">
+	<a href="index.php.html#menu">
+		Menu</a>
+	<a href="index.php.html#content">
+		Content/Inhalt</a>
+</div>
+<div id="pagewidth-800" >
+	<div id="header" >
+		<div id="top-top">
+							<div id="search">
+					<form action="index.php.html" method="post">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputbox" type="text" size="20" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+</form>				</div>
+							<div id="topmenu">
+							</div>
+		</div>
+
+		<div class="clr"></div>
+
+		<div id="top-bottom">
+			<a href="index.php.html">
+				<img src="https://culturall1.idrc.ocadu.ca/templates/dnamisato/images/blank-button.gif" border="0" alt="new banner" />				</a>
+		</div>
+			</div>
+	<div id="outer-800" >
+		<div id="pathway">
+					</div>
+		<div id="leftcol">
+			<a name="menu"></a>
+					</div>
+					<div id="maincol-broad-800" >
+						<div class="clr"></div>
+			<div class="content">
+				<a name="content"></a>
+				<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					Instructions - Installing TransformAble in Sakai			</td>
+				
+		
+					</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+<div align="left"><h2>Building TransformAble and Installing in Sakai</h2>These instructions outline the process of downloading, building and installing TransformAble for Sakai.<br /><h3>Prerequisites</h3>These instructions assume that you have a working version of Sakai set up, along with a suitable development environment. The PreferAble tool can be used in the mercury portal however you will require the new Velocity portal to see the styling effects of TransformAble. To use the PreferAble tool inside the portal, you will require the worksite setup tool.<br /><br />It is important to note that the TransfromAble code does not work with some of the earlier versions of Sakai.&nbsp; It works with the 2.4 QA branch of Sakai, as well as the trunk version.<br /><br />If you have not already done so, you will have to update your build.properties file and set the source version to 1.5:<br /><br />build.properties:<br /><br /><pre>maven.compile.source = 1.5</pre><pre>maven.compile.target = 1.5</pre><h3>1. Obtain TransformAble for Sakai</h3><div align="left">The source code for TransformAble is part of contrib, and can be downloaded from:<br /><br /><pre>https://source.sakaiproject.org/contrib/utoronto/transformable/trunk</pre></div><div align="left">The TransformAble source code should be checked out to a directory named &quot;transformable&quot; as if it were a sub-project of Sakai. For example, &quot;access&quot; and &quot;alias&quot; are Sakai projects.&nbsp; &quot;transformable&quot; should be located in your local file system as a sibling of &quot;access&quot;:<br /></div><div align="left"><pre>.../sakai/</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + access/</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + alias/</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + ...</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + transformable/</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |</pre><pre>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + ...</pre></div><div align="left"><br />The svn checkout command to place &quot;transformable&quot; in the correct location is as follows.&nbsp; This assumes the current working directory is your &quot;sakai&quot; development folder:<br /><br /><pre>svn co https://source.sakaiproject.org/contrib/utoronto/transformable/trunk transformable</pre></div><h3>2. Add the TransformAble Maven repository to your build.properties</h3>The TransformAble code that is in the Sakai SVN repository contains the source code for integrating TransformAble into Sakai. The core TransformAble components are available in JAR files from our public Maven repository. Please add our public Maven repository to your build.properties:<br /><br /><pre>maven.repo.remote=http://transformable.atrc.utoronto.ca/maven1/,http://source.sakaiproject.org/maven/,http://www.ibiblio.org/maven/</pre><h3>3. Shutdown Sakai</h3>If you are running Sakai please shut it down.<br /><h3>4. Build TransformAble</h3><em>If you use Maven 1</em><br /><br />Build and install TransformAble:<br /><br /><pre>change directory to transformable and run maven sakai</pre><br /><em>If you use Maven 2</em><br /><br />Build and install TransformAble:<br /><br />change directory to transformable and run:<br /><pre>mvn -Dmaven.test.skip=true -Dmaven.tomcat.home=$CATALINA_HOME clean install sakai:deploy</pre><br />Note that you can build all of Sakai and include TransformAble as part of the build by issuing either maven command from the root &quot;sakai&quot; folder if you checked out the TransformAble code as outlined above.<br /><h3>5. Enable PreferAble and StyleAble</h3><h4>PreferAble</h4>PreferAble is currently &quot;stealthed&quot; in the Sakai distribution. To unstealth all stealthed tools, set the following property in sakai.properties:<br /><br /><pre>
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy66473 = 'st&#101;&#97;lthT&#111;&#111;ls' + '&#64;';
+ addy66473 = addy66473 + '&#111;rg' + '&#46;' + 's&#97;k&#97;&#105;pr&#111;j&#101;ct' + '&#46;' + 't&#111;&#111;l' + '&#46;' + '&#97;p&#105;';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy66473 + '\'>' );
+ document.write( addy66473 );
+ document.write( '<\/a>' );
+ //-->\n </script> <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language='JavaScript' type='text/javascript'>
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script>.ActiveToolManager=</pre><h4>StyleAble</h4>To enable StyleAble in the portal, set the following property in sakai.properties:<br /><br /><pre>portal.styleable=true</pre><br />To enable PreferAble&#39;s &quot;Content Navigation&quot; pane, and StyleAble&#39;s on-the-fly generation of a table of contents and list of links, set the following in sakai.properties:<br /><br /><pre>portal.styleable.contentSummary=true</pre><h3>6. Restart Sakai</h3></div><div align="left">Done!<br /><br /></div><div align="left">PreferAble and StyleAble should now be installed into your Sakai.<br /></div><br /><div align="left"><br /></div></td>
+</tr>
+
+<tr>
+	<td class="modifydate">
+		Last Updated on Friday, 13 April 2007 14:58	</td>
+</tr>
+</table>
+<span class="article_separator">&nbsp;</span>
+			</div>
+		</div>
+					<div id="rightcol-broad">
+										<div class="modulepurple">
+			<div>
+				<div>
+					<div>
+													<h3>Main Menu</h3>
+											
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=frontpage&amp;Itemid=1.html" class="mainlevel" >Home</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=section&amp;id=12&amp;Itemid=53.html" class="mainlevel" id="active_menu">Projects</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=category&amp;layout=blog&amp;id=27&amp;Itemid=54.html" class="mainlevel" >Partners</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=section&amp;layout=blog&amp;id=19&amp;Itemid=55.html" class="mainlevel" >Events</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=category&amp;layout=blog&amp;id=28&amp;Itemid=56.html" class="mainlevel" >Publications</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=category&amp;layout=blog&amp;id=22&amp;Itemid=57.html" class="mainlevel" >In the News</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_content&amp;view=article&amp;id=18&amp;Itemid=58.html" class="mainlevel" >Contact Us</a></td></tr>
+<tr ><td><a href="index.php%3Foption=com_search&amp;view=search&amp;Itemid=59.html" class="mainlevel" >Search</a></td></tr>
+</table>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="modulered">
+			<div>
+				<div>
+					<div>
+													<h3>Login Form</h3>
+											<form action="index.php%3Foption=com_content&amp;view=section&amp;id=12&amp;Itemid=53.html" method="post" name="login" id="form-login" >
+		<fieldset class="input">
+	<p id="form-login-username">
+		<label for="modlgn_username">Username</label><br />
+		<input id="modlgn_username" type="text" name="username" class="inputbox" alt="username" size="18" />
+	</p>
+	<p id="form-login-password">
+		<label for="modlgn_passwd">Password</label><br />
+		<input id="modlgn_passwd" type="password" name="passwd" class="inputbox" size="18" alt="password" />
+	</p>
+		<p id="form-login-remember">
+		<label for="modlgn_remember">Remember Me</label>
+		<input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes" alt="Remember Me" />
+	</p>
+		<input type="submit" name="Submit" class="button" value="Login" />
+	</fieldset>
+	<ul>
+		<li>
+			<a href="index.php%3Foption=com_user&amp;view=reset.html">
+			Forgot your password?</a>
+		</li>
+		<li>
+			<a href="index.php%3Foption=com_user&amp;view=remind.html">
+			Forgot your username?</a>
+		</li>
+				<li>
+			<a href="index.php%3Foption=com_user&amp;task=register.html">
+				Create an account</a>
+		</li>
+			</ul>
+	
+	<input type="hidden" name="option" value="com_user" />
+	<input type="hidden" name="task" value="login" />
+	<input type="hidden" name="return" value="aHR0cDovL2N1bHR1cmFsbDEuaWRyYy5vY2FkLmNhL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTc5JmNhdGlkPTE0Jkl0ZW1pZD01Mw==" />
+	<input type="hidden" name="199fa6024bf0f4113bf56f79dce2281f" value="1" /></form>
+					</div>
+				</div>
+			</div>
+		</div>
+				</div>
+					<div class="clr"></div>
+	</div>
+
+	<div id="footer-800" >
+                <br />
+		<div align="center">
+	&copy; 2013 culturall</div>
+
+<div align="center">
+	<a href="http://www.joomla.org">Joomla!</a> is Free Software released under the GNU General Public License.</div>		<div style="padding-top: 20px"><div style="float: left"><img src="https://culturall1.idrc.ocadu.ca/images/logsmle.gif" border="0" alt="Canadian Heritage Logo" title="Canadian Heritage Logo" width="154" height="26" /> </div><div style="float: right"><img src="https://culturall1.idrc.ocadu.ca/images/canada.gif" border="0" alt="Canada" title="Canada" width="82" height="20" /> </div><div align="center" style="text-align: center">We acknowledge the financial support of the Department of Canadian Heritage through <br />Canadian Culture Online </div><div class="clr"><div align="center" style="padding-top: 10px"><a href="http://www.culture.ca"><img src="https://culturall1.idrc.ocadu.ca/images/culture.ca.jpg" border="0" alt="Culture.ca Logo" width="100" height="35" /></a></div></div></div>	</div>
+</div>
+
+</body>
+</html>

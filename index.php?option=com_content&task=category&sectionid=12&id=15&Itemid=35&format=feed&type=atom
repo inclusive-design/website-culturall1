@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://culturall1.idrc.ocadu.ca/index.php" xml:lang="en-gb">
+	<title type="text">culturall</title>
+	<subtitle type="text">Joomla! - the dynamic portal engine and content management system</subtitle>
+	<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=category&amp;id=15&amp;Itemid=53"/>
+	<id>/index.php?option=com_content&amp;view=category&amp;id=15&amp;Itemid=53</id>
+	<updated>2013-08-13T00:21:13Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="/" />
+	<entry>
+		<title>Announcement - TinyMCE Popularity</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=109&amp;catid=15&amp;Itemid=53"/>
+		<published>2007-04-04T13:58:39Z</published>
+		<updated>2007-04-04T13:58:39Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=109&amp;amp;catid=15&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;The impact of the TinyMCE accessibility upgrade on the accessibility of Web content will have a ripple down effect in proportion to its use because (1) this means more people will have access to tools to simplify accessible authoring and (2) the battle for market share will cause other editors to follow suit and add enhanced accessibility features to their products.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;A snapshot of the TinyMCE usage statististics at the end of March 2007 are shown below, while the current and complete TinyMCE statistics are visibe at: &lt;a href=&quot;http://sourceforge.net/project/stats/?group_id=103281&amp;amp;ugn=tinymce&amp;amp;type=&amp;amp;mode=year&quot; target=&quot;_blank&quot;&gt;TinyMCE Statistics&lt;/a&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;In March 2007, the number of hits on the TinyMCE site was approximately &lt;strong&gt;260,000&lt;/strong&gt;. The number of downloads of TinyMCE in the same month was approximately &lt;strong&gt;60,000&lt;/strong&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Also, follow this link to view a &lt;a href=&quot;http://wiki.moxiecode.com/index.php/TinyMCE:CMS_systems&quot; target=&quot;_blank&quot;&gt;list of authoring tools&amp;nbsp;using TinyMCE&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;{mosimage}&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;The impact of the TinyMCE accessibility upgrade on the accessibility of Web content will have a ripple down effect in proportion to its use because (1) this means more people will have access to tools to simplify accessible authoring and (2) the battle for market share will cause other editors to follow suit and add enhanced accessibility features to their products.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;A snapshot of the TinyMCE usage statististics at the end of March 2007 are shown below, while the current and complete TinyMCE statistics are visibe at: &lt;a href=&quot;http://sourceforge.net/project/stats/?group_id=103281&amp;amp;ugn=tinymce&amp;amp;type=&amp;amp;mode=year&quot; target=&quot;_blank&quot;&gt;TinyMCE Statistics&lt;/a&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;In March 2007, the number of hits on the TinyMCE site was approximately &lt;strong&gt;260,000&lt;/strong&gt;. The number of downloads of TinyMCE in the same month was approximately &lt;strong&gt;60,000&lt;/strong&gt;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Also, follow this link to view a &lt;a href=&quot;http://wiki.moxiecode.com/index.php/TinyMCE:CMS_systems&quot; target=&quot;_blank&quot;&gt;list of authoring tools&amp;nbsp;using TinyMCE&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;{mosimage}&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Presentation - CulturAll Summit - Dec 2006</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=91&amp;catid=15&amp;Itemid=53"/>
+		<published>2007-03-28T11:53:53Z</published>
+		<updated>2007-03-28T11:53:53Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=91&amp;amp;catid=15&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;View &lt;a href=&quot;images/stories/powerpoints/cultureall_tools.ppt&quot; target=&quot;_blank&quot; title=&quot;Presentation at the CulturAll Summit Dec 2006&quot;&gt;presentation&lt;/a&gt;&amp;nbsp;from CulturAll Summit - Dec 2006&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;View &lt;a href=&quot;images/stories/powerpoints/cultureall_tools.ppt&quot; target=&quot;_blank&quot; title=&quot;Presentation at the CulturAll Summit Dec 2006&quot;&gt;presentation&lt;/a&gt;&amp;nbsp;from CulturAll Summit - Dec 2006&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Document - TinyMCE Accessibility Enhancements</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=90&amp;catid=15&amp;Itemid=53"/>
+		<published>2007-03-28T11:52:57Z</published>
+		<updated>2007-03-28T11:52:57Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=90&amp;amp;catid=15&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;ol&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Fully keyboard navigable (including visual indicators of focus, etc.)&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Enhanced keyboard navigation allows the author to move easily between the button bars, content being edited, and the status bar.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;All buttons in user interface have alt-text.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Prompting for accessibility labels for images, table information.&amp;nbsp;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;&lt;a href=&quot;index.php?option=com_content&amp;amp;task=view&amp;amp;id=71&amp;amp;Itemid=35&quot;&gt;Plug-in for Checking Accessibility (AChecker)&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Enhanced references to accessibility in the documentation.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p align=&quot;left&quot;&gt;{mosimage}&lt;/p&gt;</summary>
+		<content type="html">&lt;ol&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Fully keyboard navigable (including visual indicators of focus, etc.)&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Enhanced keyboard navigation allows the author to move easily between the button bars, content being edited, and the status bar.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;All buttons in user interface have alt-text.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Prompting for accessibility labels for images, table information.&amp;nbsp;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;&lt;a href=&quot;index.php?option=com_content&amp;amp;task=view&amp;amp;id=71&amp;amp;Itemid=35&quot;&gt;Plug-in for Checking Accessibility (AChecker)&lt;/a&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;Enhanced references to accessibility in the documentation.&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p align=&quot;left&quot;&gt;{mosimage}&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Download - AChecker plug-in for TinyMCE download</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=71&amp;catid=15&amp;Itemid=53"/>
+		<published>2007-03-26T11:45:25Z</published>
+		<updated>2007-03-26T11:45:25Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=71&amp;amp;catid=15&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;The free downloads on this page allow TinyMCE to include a function that checks page content against an HTML evaluation program called A-Checker.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://checker.atrc.utoronto.ca/Installation.html&quot;&gt;&lt;u&gt;http://checker.atrc.utoronto.ca/Installation.html&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;The free downloads on this page allow TinyMCE to include a function that checks page content against an HTML evaluation program called A-Checker.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://checker.atrc.utoronto.ca/Installation.html&quot;&gt;&lt;u&gt;http://checker.atrc.utoronto.ca/Installation.html&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Instructions - Demonstration of TinyMCE integrated with ATutor</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=70&amp;catid=15&amp;Itemid=53"/>
+		<published>2007-03-26T11:39:33Z</published>
+		<updated>2007-03-26T11:39:33Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=70&amp;amp;catid=15&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;Instructions for seeing how TinyMCE works integrated with ATutor.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;WARNING: The demonstration site is open to editing by the public, which&amp;nbsp;results in changes to the content and language of the site. While the instructions that follow were accurate as of 26 March 2007, that may no longer be the case.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;Instructions for seeing how TinyMCE works integrated with ATutor.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;WARNING: The demonstration site is open to editing by the public, which&amp;nbsp;results in changes to the content and language of the site. While the instructions that follow were accurate as of 26 March 2007, that may no longer be the case.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Download -  TinyMCE available for Download</title>
+		<link rel="alternate" type="text/html" href="/index.php?option=com_content&amp;view=article&amp;id=69&amp;catid=15&amp;Itemid=53"/>
+		<published>2007-03-26T10:19:23Z</published>
+		<updated>2007-03-26T10:19:23Z</updated>
+		<id>/index.php?option=com_content&amp;amp;view=article&amp;amp;id=69&amp;amp;catid=15&amp;amp;Itemid=53</id>
+		<summary type="html">&lt;p align=&quot;left&quot;&gt;&lt;span class=&quot;ingress&quot;&gt;&lt;span class=&quot;ingress&quot;&gt;TinyMCE is the authoring tool that was upgraded with accessibility enhancements as part of this project. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;span class=&quot;ingress&quot;&gt;TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL by Moxiecode Systems AB. It has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances. TinyMCE is very easy to integrate into other Content Management Systems.&lt;/span&gt; &lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Information:&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://tinymce.moxiecode.com/index.php&quot;&gt;http://tinymce.moxiecode.com/index.php&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Free Download:&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://tinymce.moxiecode.com/download.php&quot;&gt;http://tinymce.moxiecode.com/download.php&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p align=&quot;left&quot;&gt;&lt;span class=&quot;ingress&quot;&gt;&lt;span class=&quot;ingress&quot;&gt;TinyMCE is the authoring tool that was upgraded with accessibility enhancements as part of this project. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;span class=&quot;ingress&quot;&gt;TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL by Moxiecode Systems AB. It has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances. TinyMCE is very easy to integrate into other Content Management Systems.&lt;/span&gt; &lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Information:&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://tinymce.moxiecode.com/index.php&quot;&gt;http://tinymce.moxiecode.com/index.php&lt;/a&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;Free Download:&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://tinymce.moxiecode.com/download.php&quot;&gt;http://tinymce.moxiecode.com/download.php&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+</feed>
